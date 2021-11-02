@@ -24,7 +24,7 @@ public class NoteTakerController {
 
     private final NoteRepository repository;
 
-    private static final int PAGE_SIZE = 6;
+    private static final int PAGE_SIZE = 7;
 
     public NoteTakerController(NoteRepository repository) {
         this.repository = repository;
