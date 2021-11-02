@@ -17,6 +17,9 @@ public class Note {
     protected Note() {
     }
 
+    /*
+     * This is a default constructor for note models!
+     */
     public Note(String title, String content) {
         this.title = title;
         this.content = content;
